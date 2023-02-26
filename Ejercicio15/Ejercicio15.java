@@ -1,5 +1,4 @@
 // Hacer un algoritmo que simule un reloj durante un dia.
-
 import java.util.Scanner;
 
 public class Ejercicio15 {
